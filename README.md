@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prasamsha-gh&label=Profile%20views&color=0e75b6&style=flat" alt="prasamsha-gh" /> </p>
 
-- 🌱 I’m currently learning **Python,Django**
+- 🌱 I’m currently learning **JavaScript**
 
 - 📫 How to reach me **prasamshaghimire77@gmail.com**
 
